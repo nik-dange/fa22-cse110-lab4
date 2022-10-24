@@ -1,0 +1,2 @@
+1. The issue was that we were doing string concatenation instead of adding the two numbers together.
+2. To fix it, I would cast the num1 and num2 variables so that they are number representations rather than strings.
